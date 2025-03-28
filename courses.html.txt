@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Courses - Independent Learning Hub</title>
+    <link rel="stylesheet" href="css/style.css">
+</head>
+<body>
+    <header>
+        <h1>Courses</h1>
+        <nav>
+            <ul>
+                <li><a href="index.html">Home</a></li>
+                <li><a href="courses.html">Courses</a></li>
+                <li><a href="community.html">Community</a></li>
+                <li><a href="tutor.html">AI Tutor</a></li>
+            </ul>
+        </nav>
+    </header>
+    
+    <main>
+        <section>
+            <h2>Available Courses</h2>
+            <ul>
+                <li><a href="courses/critical-thinking.html">How to Think for Yourself: Critical Thinking & Logic</a></li>
+                <li>Coming Soon: Financial Independence</li>
+                <li>Coming Soon: Hidden History & Power Structures</li>
+            </ul>
+        </section>
+    </main>
+
+    <footer>
+        <p>&copy; 2025 Independent Learning Hub</p>
+    </footer>
+</body>
+</html>

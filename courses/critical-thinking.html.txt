@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Critical Thinking & Logic</title>
+    <link rel="stylesheet" href="../css/style.css">
+</head>
+<body>
+    <header>
+        <h1>How to Think for Yourself</h1>
+        <nav>
+            <ul>
+                <li><a href="../index.html">Home</a></li>
+                <li><a href="../courses.html">Courses</a></li>
+                <li><a href="../community.html">Community</a></li>
+                <li><a href="../tutor.html">AI Tutor</a></li>
+            </ul>
+        </nav>
+    </header>
+    
+    <main>
+        <h2>Lesson 1: Why Thinking for Yourself is a Superpower</h2>
+        <p>In this lesson, you’ll learn why critical thinking is essential and how it can protect you from misinformation.</p>
+        <a href="../quizzes/critical-thinking-quiz.html" class="button">Take Quiz</a>
+    </main>
+
+    <footer>
+        <p>&copy; 2025 Independent Learning Hub</p>
+    </footer>
+</body>
+</html>
